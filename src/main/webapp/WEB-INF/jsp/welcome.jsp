@@ -1,7 +1,7 @@
 <%@ include file="/WEB-INF/jsp/includes.jsp" %>
 <%@ include file="/WEB-INF/jsp/header.jsp" %>
 
-<img src="<spring:url value="/static/images/continuous-delivery.jpg" htmlEscape="true" />" align="right" style="position:relative;right:30px;">
+<img src="<spring:url value="/static/images/continuous-delivery.jpg" htmlEscape="true" />" align="right" style="position:relative;right:1px;">
 <h2><fmt:message key="welcome"/></h2>
 
 <ul>
