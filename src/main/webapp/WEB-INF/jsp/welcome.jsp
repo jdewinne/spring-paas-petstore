@@ -7,7 +7,7 @@
 <ul>
   <li><a href="<spring:url value="/owners/search" htmlEscape="true" />">Find owner</a></li>
   <li><a href="<spring:url value="/vets" htmlEscape="true" />">Display all continuous delivery experts</a></li>
-  <li><a href="<spring:url value="/static/html/tutorial.html" htmlEscape="true" />">Tutorial</a></li>
+  <li><a href="<spring:url value="/static/html/tutorial.html" htmlEscape="true" />">Tutorial for Continuous Delivery</a></li>
 </ul>
 
 <p>&nbsp;</p>
